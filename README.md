@@ -1,5 +1,5 @@
 # Play-Baseball
-simulation of a baseball game
+simulation of a baseball game, randomly generated results
 
 import java.util.Scanner;
 
